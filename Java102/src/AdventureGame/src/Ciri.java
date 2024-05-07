@@ -1,4 +1,4 @@
-package Java.src;
+package AdventureGame.src;
 
 public class Ciri extends GameChar{
     public Ciri() {

@@ -1,4 +1,4 @@
-package Java.src;
+package AdventureGame.src;
 
 public class Yennefer extends GameChar{
     public Yennefer() {

@@ -1,4 +1,4 @@
-package Java.src;
+package AdventureGame.src;
 
 public abstract class GameChar {
     private int id;

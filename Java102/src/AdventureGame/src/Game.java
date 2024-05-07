@@ -1,4 +1,4 @@
-package Java.src;
+package AdventureGame.src;
 
 import java.util.Random;
 import java.util.Scanner;
